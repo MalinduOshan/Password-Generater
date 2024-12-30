@@ -19,6 +19,6 @@ A fun and easy-to-use web app to generate secure, random passwords. Protect your
 
 
 ## 📸 Screenshots
-
+![image alt](https://github.com/MalinduOshan/Password-Generater/blob/b9ab7ee583a4e7e49725984b4b9f9ef5ddfe814a/Screenshot%20(102).png)
 
 
